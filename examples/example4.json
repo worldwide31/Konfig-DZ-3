@@ -1,0 +1,5 @@
+{
+    "sum_result": [3, "+", 7],
+    "maximum_value": ["max", 5, 10, 2],
+    "sqrt_value": ["sqrt", 25]
+}

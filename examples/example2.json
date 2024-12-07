@@ -1,0 +1,7 @@
+{
+    "background_color": "blue",
+    "border": {
+        "width": 5,
+        "color": "black"
+    }
+}
